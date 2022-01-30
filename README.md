@@ -3,6 +3,10 @@ A simple sinatra server of GSI Maps Vector Tiles for UNVT Portable
 
 ![social preview image](https://repository-images.githubusercontent.com/445690045/0fcd3cef-90e5-4bac-a30c-c6ddc684a6df)
 
+# Demo
+1. Tiles are available at `https://x.optgeo.org/kagami/zxy/{z}/{x}/{y}.pbf`.
+2. A demo site is at https://optgeo.github.io/nagi-names
+
 # vt-optimizer output
 ```
 pi@m354:/mnt/hdd $ node ~/vt-optimizer/index.js -m experimental_bvmap.mbtiles
